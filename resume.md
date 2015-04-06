@@ -14,8 +14,10 @@ Contact
 - http://github.com/mertnuhoglu
 - http://twitter.com/mertnuhoglu
   
+
 Education 
 ---------
+
 | Years     | Degree        | Institution               | Field                  | GPA  |
 |-----------|---------------|---------------------------|------------------------|------|
 | 2006-2009 | Graduate      | Bogazici University       | Industrial Engineering | 3.36 |
