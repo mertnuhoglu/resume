@@ -150,8 +150,9 @@ I gave trainings of internet entrepreneurship covering topics such as Wordpress,
 Web Sites in Operation
 ----------------------
 
-Family Education Programme http://www.aep.gov.tr 
-	This is the front end of the management software for Family Education Programme built for the government. This education programme will encompass more 5-10 million people in Turkey.
+- Family Education Programme http://www.aep.gov.tr 
+
+	- This is the front end of the management software for Family Education Programme built for the government. This education programme will encompass more 5-10 million people in Turkey.
 
 Turk-Ukraine Forum
 http://turkukraynaforum.com 
